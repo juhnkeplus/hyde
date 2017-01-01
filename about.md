@@ -1,5 +1,4 @@
 ---
-layout: page
 title: О нас
 ---
 ### Кто мы
