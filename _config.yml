@@ -7,15 +7,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            juhnkeplus
+title:            Juhnkeplus
 tagline:          'Сообщество дальнобойщиков'
 description:      'Сообщество дальнобойщиков - информационный сайт'
 url:              http://juhnkeplus.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Juhnke'
+  url:            http://juhnkeplus.github.io
 
 paginate:         10
 
