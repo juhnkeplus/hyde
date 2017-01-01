@@ -31,10 +31,10 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "posta"
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "pagea"
