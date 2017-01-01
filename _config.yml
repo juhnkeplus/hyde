@@ -49,4 +49,9 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
+    pages:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       
