@@ -32,7 +32,10 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+font-family:
+/* 1 */ -apple-system, BlinkMacSystemFont,
+/* 2 */ "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+/* 3 */ "Helvetica Neue", sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +82,10 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family:
+/* 1 */ -apple-system, BlinkMacSystemFont,
+/* 2 */ "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+/* 3 */ "Helvetica Neue", sans-serif;
   font-size: 3.25rem;
 }
 
