@@ -1,5 +1,5 @@
 ---
-title: О нас и вас
+title: О нас
 published: true
 ---
 ### Кто мы
