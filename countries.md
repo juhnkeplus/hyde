@@ -10,6 +10,7 @@ _(Приносим свои извинения, раздел на реконст
  - [Германия](/countries/germany/)
 -  [Австрия](/countries/austria/)
 -  [Бельгия](/countries/belgium/)
+-  [Дания](/countries/denmark/)
 -  [Италия](/countries/italy/)
 -  [Испания](/countries/spain/)
 -  [Люксембург](/countries/luxemburg/)
