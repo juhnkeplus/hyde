@@ -1,5 +1,5 @@
 ---
-title: Полезно знать
+title: Разное
 published: true
 ---
 ### Кто мы
