@@ -6,7 +6,7 @@ published: true
 -  _Для выбора интересующей страны кликни по соответствующей ссылке:_
 
  
- - [Германия](/master/Germany.html)
+ - [Германия](juhnkeplus.github.io/Germany.html)
 -  Австрия
 -  Нидерланды
 -  Франция
