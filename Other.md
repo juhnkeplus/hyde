@@ -1,5 +1,5 @@
 ---
-title: О нас
+title: Полезно знать
 published: true
 ---
 ### Кто мы
