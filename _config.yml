@@ -49,10 +49,4 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
-    content:
-      - name: "test"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
       
