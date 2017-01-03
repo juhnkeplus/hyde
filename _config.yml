@@ -7,7 +7,7 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Juhnkeplus
+title:            ##Juhnkeplus
 tagline:          'Сообщество дальнобойщиков'
 description:      'Сообщество дальнобойщиков - информационный сайт'
 url:              http://juhnkeplus.github.io
@@ -49,4 +49,3 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
-      
