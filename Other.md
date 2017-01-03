@@ -3,16 +3,20 @@ title: Информация по странам
 published: true
 ---
 - **Данный раздел содержит информацию по странам Европы.**
--  _Для выбора интересующей страны кликни по соответствующей ссылке:_
+-  _Для выбора интересующей страны кликни по ссылке:_
 
  
  - [Германия](/countries/germany/)
--  Австрия
--  Нидерланды
--  Франция
--  Италия
--  Испания
--  Бельгия
--  Швеция
--  Швейцария
--  Польша
+-  [Австрия](/countries/austria/)
+-  [Бельгия](/countries/belgium/)
+-  [Италия](/countries/italy/)
+-  [Испания](/countries/spain/)
+-  [Люксембург](/countries/luxemburg/)
+-  [Нидерланды](/countries/netherlands/)
+-  [Польша](/countries/poland/)
+-  [Франция](/countries/france/)
+-  [Чехия](/countries/czech/)
+-  [Швеция](/countries/sweden/)
+-  [Швейцария](/countries/switzerland/)
+
+
