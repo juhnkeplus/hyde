@@ -1,5 +1,6 @@
 ---
 published: true
+menu: false
 ---
 ### германия
 
