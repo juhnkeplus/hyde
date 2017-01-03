@@ -49,7 +49,7 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
-    _pages:
+    content:
       - name: "test"
         field:
           label: "Published"
