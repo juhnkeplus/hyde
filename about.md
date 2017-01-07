@@ -14,3 +14,8 @@ published: true
 
 - e-mail: [juhnkeplus@yandex.ru](juhnkeplus@yandex.ru "Пиши сюда свои предложения и пожелания )")
 
+## Благодарность за помощь в создании ресурса:
+
+	
+
+
