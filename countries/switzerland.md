@@ -3,6 +3,7 @@ published: true
 menu: false
 ---
 ### Швейцария
+![switzerland.png]({{site.baseurl}}images/switzerland.png)
 
 - Швейца́рия (нем. die Schweiz, фр. Suisse, итал. Svizzera, ромш. Svizra), официальное название — Швейца́рская Конфедера́ция (нем. Schweizerische Eidgenossenschaft, фр. Confédération suisse, итал. Confederazione Svizzera, ромш. Confederaziun svizra) — государство в Западной Европе. Граничит на севере с Германией, на юге — с Италией, на западе — с Францией, на востоке — с Австрией и Лихтенштейном. Название происходит от наименования одного из трёх первоначальных кантонов Швиц.
 
